@@ -1,2 +1,2 @@
-# Belajar-Ngoding-Yuu
-ini adalah repository belajar ngoding
+# project web profil 
+ini adalah repository project web profil saya 
